@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front\\CarritoCompras.Front.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front.Bussiness\\CarritoCompras.Front.Bussiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front.Bussiness\\CarritoCompras.Front.Bussiness.csproj",
+        "projectName": "CarritoCompras.Front.Bussiness",
+        "projectPath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front.Bussiness\\CarritoCompras.Front.Bussiness.csproj",
+        "packagesPath": "C:\\Users\\WALTHER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front.Bussiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WALTHER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritosCompras.Front.Models\\CarritosCompras.Front.Models.csproj": {
+                "projectPath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritosCompras.Front.Models\\CarritosCompras.Front.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front\\CarritoCompras.Front.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front\\CarritoCompras.Front.csproj",
+        "projectName": "CarritoCompras.Front",
+        "projectPath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front\\CarritoCompras.Front.csproj",
+        "packagesPath": "C:\\Users\\WALTHER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WALTHER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front.Bussiness\\CarritoCompras.Front.Bussiness.csproj": {
+                "projectPath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front.Bussiness\\CarritoCompras.Front.Bussiness.csproj"
+              },
+              "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritosCompras.Front.Models\\CarritosCompras.Front.Models.csproj": {
+                "projectPath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritosCompras.Front.Models\\CarritosCompras.Front.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.Workspaces.Common": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritosCompras.Front.Models\\CarritosCompras.Front.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritosCompras.Front.Models\\CarritosCompras.Front.Models.csproj",
+        "projectName": "CarritosCompras.Front.Models",
+        "projectPath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritosCompras.Front.Models\\CarritosCompras.Front.Models.csproj",
+        "packagesPath": "C:\\Users\\WALTHER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritosCompras.Front.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WALTHER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

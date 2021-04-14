@@ -1,0 +1,12 @@
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\bin\Debug\netcoreapp3.1\CarritosCompras.Front.Models.dll
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\obj\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.csprojAssemblyReference.cache
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\obj\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.AssemblyInfoInputs.cache
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\obj\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.AssemblyInfo.cs
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\bin\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.deps.json
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\bin\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.dll
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\bin\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.pdb
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\bin\Debug\netcoreapp3.1\CarritosCompras.Front.Models.pdb
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\obj\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\obj\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.csproj.CopyComplete
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\obj\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.dll
+C:\Users\WALTHER\source\repos\CarritoCompras.Front\CarritoCompras.Front.Bussiness\obj\Debug\netcoreapp3.1\CarritoCompras.Front.Bussiness.pdb

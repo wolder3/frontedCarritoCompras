@@ -1,0 +1,34 @@
+﻿@using CarritosCompras.Front.Models.ViewObjects;
+@using CarritosCompras.Front.Models;
+@{
+    ViewData["Title"] = "Home Page";
+
+    List<Categoria> ListadoCategoria = ViewBag.ListadoCategoria;
+    List<Producto> ListadoProducto = ViewBag.ListadoProducto;
+    string URL = ViewBag.URL;
+}
+
+<div class="content">
+    <div class="row card-columns">
+        @foreach (var producto in ListadoProducto)
+        {
+
+            <div class="sm-4">
+                <div class="card" style="width: 18rem;">
+                    <img class="img-producto" src="@string.Concat(URL,"producto/imagen/",producto.imagen)" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@producto.nombre</h5>
+                        <p class="card-text">Precio:  @producto.precio</p>
+                    </div>
+                    <div class="card-footer text-center">
+                        <a href="#" class="btn btn-primary">Agregar a carrito</a>
+                        <a href="#" class="btn btn-success mt-3">Ver Producto</a>
+                    </div>
+                </div>
+            </div>
+
+
+        }
+    </div>
+
+    </div>

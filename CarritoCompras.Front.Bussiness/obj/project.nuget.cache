@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFhdi9ll79+E8KIgLNNz0qYTn5FU8f3S+21GLGMnIj5WM4J+khgcV94keKORefz8YtqHV3eez25ePGDO95hN9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALTHER\\source\\repos\\CarritoCompras.Front\\CarritoCompras.Front.Bussiness\\CarritoCompras.Front.Bussiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALTHER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\WALTHER\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\WALTHER\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\WALTHER\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
